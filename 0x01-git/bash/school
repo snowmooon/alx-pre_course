@@ -3,3 +3,4 @@ echo "School"
 #!/bin/bash
 echo "The school is open"
 EOF 
+The school is open
