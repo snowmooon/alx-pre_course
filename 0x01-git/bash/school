@@ -4,5 +4,9 @@ echo "School"
 echo "The school is open"
 EOF 
 The school is open
+<<<<<<< HEAD
 The school is open
 School
+=======
+The school is open!
+>>>>>>> update_script
